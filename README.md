@@ -40,7 +40,8 @@ A Python program that produces the HTML for a movie website that displays a numb
 
 - When mouse is hovered over a movie img it displays movie storyline.
 - Added the release date to the Movie class, which is also displayed on the website.
-- Added the movie rating and lenght to the Movie class, it's also display on the website.
+- Added the movie rating and lenght to the Movie class, they're also displayed on the website.
 - Changed the navigation.
-- Added front-awesome.
+- Added front-awesome CDN.
 - Changed Video close img to front-awesome icon.
+- Added a sticky footer.
