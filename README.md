@@ -23,11 +23,11 @@ A Python program that produces the HTML for a movie website that displays a numb
 - Download the project .zip file to you computer and unzip the file or clone this repository to your desktop.
 - Open the text-based interface for your operating system (e.g. the terminal window in Linux, the command prompt in Windows).
 - Navigate to the project directory and type in the following command:
-`python entertainment_center.py`
+    `python entertainment_center.py`
 - Your default browser should launch a new tab displaying the movie trailer website.
 
     P.S. If you're using Linux or Mac, you might need to set a permission to make this file executable. You can do it using the following command:
-`chmod +x entertainment_center.py`
+    `chmod +x entertainment_center.py`
 
 ### Notes from Udacity
 - The file `fresh_tomatoes.py` contains the `open_movies_page()` function that will take in your list of movies and generate an HTML file including this content, producing a website to showcase your favorite movies.
