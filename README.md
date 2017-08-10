@@ -6,7 +6,7 @@ The Movie Trailer Website project consists of server-side code to store a list o
 
 ## What it is and it does
 
-A Python program that produces the HTML for a movie website that displays a number of movies. Click on a movie poster to play its trailer.
+A Python program that produces the HTML for a movie website that displays a number of movies. In this website you can see all the information about the movie. More over, you can click on a movie poster to play its trailer.
 
 #### This project consists for the following files:
 
@@ -36,7 +36,7 @@ A Python program that produces the HTML for a movie website that displays a numb
 
 - You’ll want to write a constructor for the movie class so that you can create instances of movie. You can now create a list of these movie objects in `entertainment_center.py` by calling the constructor `media.Movie()` to instantiate movie objects. You’ve given movies their own custom data structure by defining the movie class and constructor, and now these objects can be stored in a list data structure. This list of movies is what the `open_movies_page()` function needs as input in order to build the HTML file, so you can display your website.
 
-### Extra features:
+## Extra features:
 
 - When mouse is hovered over a movie img it displays movie storyline.
 - Added the release date to the Movie class, which is also displayed on the website.
